@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "맛 Hot Sauce",
+  "base_artist": "NCT DREAM",
+  "createdAt": "2026-04-02T02:15:54.591951Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "맛 Hot Sauce",
+      "artist": "NCT DREAM",
+      "has_synced": true,
+      "path": "select/01_맛_Hot_Sauce_NCT_DREAM.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "맛 (Hot Sauce)",
+      "artist": "NCT DREAM",
+      "has_synced": true,
+      "path": "select/02_맛_(Hot_Sauce)_NCT_DREAM.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "맛 (Hot Sauce) (Hitchhiker Remix)",
+      "artist": "NCT DREAM",
+      "has_synced": true,
+      "path": "select/03_맛_(Hot_Sauce)_(Hitchhiker_Remix)_NCT_DREAM.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "맛 (Hot Sauce) (MINIMONSTER Remix)",
+      "artist": "NCT DREAM",
+      "has_synced": true,
+      "path": "select/04_맛_(Hot_Sauce)_(MINIMONSTER_Remix)_NCT_DREAM.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "맛 (Hot Sauce)",
+      "artist": "NCT DREAM",
+      "has_synced": true,
+      "path": "select/05_맛_(Hot_Sauce)_NCT_DREAM.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "맛 Hot Sauce",
+      "artist": "NCT DREAM",
+      "has_synced": true,
+      "path": "select/06_맛_Hot_Sauce_NCT_DREAM.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "맛 Hot Sauce (Hitchhiker Remix)",
+      "artist": "NCT DREAM",
+      "has_synced": true,
+      "path": "select/07_맛_Hot_Sauce_(Hitchhiker_Remix)_NCT_DREAM.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "맛 Hot Sauce (MINIMONSTER Remix)",
+      "artist": "NCT DREAM",
+      "has_synced": true,
+      "path": "select/08_맛_Hot_Sauce_(MINIMONSTER_Remix)_NCT_DREAM.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "맛 Hot Sauce",
+      "artist": "NCT DREAM",
+      "has_synced": true,
+      "path": "select/09_맛_Hot_Sauce_NCT_DREAM.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "빨간 맛 Red Flavor",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/10_빨간_맛_Red_Flavor_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "빨간 맛 (Red Flavor)",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/11_빨간_맛_(Red_Flavor)_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "맛 있어서 눈물이나",
+      "artist": "DAVICHI",
+      "has_synced": true,
+      "path": "select/12_맛_있어서_눈물이나_DAVICHI.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "빨간 맛 (Red Flavor) (Mar Vista remix)",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/13_빨간_맛_(Red_Flavor)_(Mar_Vista_remix)_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "빨간 맛 (Red Flavor) (Mar Vista remix)",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/14_빨간_맛_(Red_Flavor)_(Mar_Vista_remix)_Red_Velvet.lrc"
+    }
+  ]
+}
